@@ -1,0 +1,6 @@
+C:\Users\Vins\Desktop\christmas-eve\christmas-eve.Classes\bin\Debug\netstandard2.0\christmas-eve.Classes.deps.json
+C:\Users\Vins\Desktop\christmas-eve\christmas-eve.Classes\bin\Debug\netstandard2.0\christmas-eve.Classes.dll
+C:\Users\Vins\Desktop\christmas-eve\christmas-eve.Classes\obj\Debug\netstandard2.0\christmas-eve.Classes.csprojResolveAssemblyReference.cache
+C:\Users\Vins\Desktop\christmas-eve\christmas-eve.Classes\obj\Debug\netstandard2.0\christmas-eve.Classes.csproj.CoreCompileInputs.cache
+C:\Users\Vins\Desktop\christmas-eve\christmas-eve.Classes\obj\Debug\netstandard2.0\christmas-eve.Classes.AssemblyInfoInputs.cache
+C:\Users\Vins\Desktop\christmas-eve\christmas-eve.Classes\obj\Debug\netstandard2.0\christmas-eve.Classes.AssemblyInfo.cs
