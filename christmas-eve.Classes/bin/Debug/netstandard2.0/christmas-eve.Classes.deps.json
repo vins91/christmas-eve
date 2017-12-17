@@ -1,7 +1,11 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
+<<<<<<< HEAD
     "signature": "37c83b152f41c47ff9b6f8d792774f155c2d69b8"
+=======
+    "signature": "c29e7ca871fc492e2fd2ba12182459e18ca953f4"
+>>>>>>> c99d6f9a3aeee759b4a50408b4b8adfc52f31bad
   },
   "compilationOptions": {},
   "targets": {
@@ -9,10 +13,15 @@
     ".NETStandard,Version=v2.0/": {
       "christmas-eve.Classes/1.0.0": {
         "dependencies": {
+<<<<<<< HEAD
           "MongoDB.Driver": "2.5.0",
           "MongoDB.Driver.Core": "2.5.0",
           "NETStandard.Library": "2.0.0",
           "System.Configuration.Abstractions": "2.0.2.26"
+=======
+          "MongoDB.Driver.Core": "2.5.0",
+          "NETStandard.Library": "2.0.0"
+>>>>>>> c99d6f9a3aeee759b4a50408b4b8adfc52f31bad
         },
         "runtime": {
           "christmas-eve.Classes.dll": {}
@@ -74,6 +83,7 @@
           "lib/netstandard1.5/MongoDB.Bson.dll": {}
         }
       },
+<<<<<<< HEAD
       "MongoDB.Driver/2.5.0": {
         "dependencies": {
           "MongoDB.Bson": "2.5.0",
@@ -86,6 +96,8 @@
           "lib/netstandard1.5/MongoDB.Driver.dll": {}
         }
       },
+=======
+>>>>>>> c99d6f9a3aeee759b4a50408b4b8adfc52f31bad
       "MongoDB.Driver.Core/2.5.0": {
         "dependencies": {
           "DnsClient": "1.0.7",
@@ -193,6 +205,7 @@
           "lib/netstandard1.3/System.Collections.Specialized.dll": {}
         }
       },
+<<<<<<< HEAD
       "System.ComponentModel/4.0.1": {
         "dependencies": {
           "System.Runtime": "4.3.0"
@@ -238,6 +251,8 @@
           "lib/net45/System.Configuration.Abstractions.dll": {}
         }
       },
+=======
+>>>>>>> c99d6f9a3aeee759b4a50408b4b8adfc52f31bad
       "System.Diagnostics.Debug/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
@@ -402,6 +417,7 @@
           "lib/netstandard1.6/System.Linq.Expressions.dll": {}
         }
       },
+<<<<<<< HEAD
       "System.Linq.Queryable/4.0.1": {
         "dependencies": {
           "System.Collections": "4.3.0",
@@ -417,6 +433,8 @@
           "lib/netstandard1.3/System.Linq.Queryable.dll": {}
         }
       },
+=======
+>>>>>>> c99d6f9a3aeee759b4a50408b4b8adfc52f31bad
       "System.Net.NameResolution/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
@@ -940,6 +958,7 @@
       "path": "mongodb.bson/2.5.0",
       "hashPath": "mongodb.bson.2.5.0.nupkg.sha512"
     },
+<<<<<<< HEAD
     "MongoDB.Driver/2.5.0": {
       "type": "package",
       "serviceable": true,
@@ -947,6 +966,8 @@
       "path": "mongodb.driver/2.5.0",
       "hashPath": "mongodb.driver.2.5.0.nupkg.sha512"
     },
+=======
+>>>>>>> c99d6f9a3aeee759b4a50408b4b8adfc52f31bad
     "MongoDB.Driver.Core/2.5.0": {
       "type": "package",
       "serviceable": true,
@@ -1024,6 +1045,7 @@
       "path": "system.collections.specialized/4.0.1",
       "hashPath": "system.collections.specialized.4.0.1.nupkg.sha512"
     },
+<<<<<<< HEAD
     "System.ComponentModel/4.0.1": {
       "type": "package",
       "serviceable": true,
@@ -1052,6 +1074,8 @@
       "path": "system.configuration.abstractions/2.0.2.26",
       "hashPath": "system.configuration.abstractions.2.0.2.26.nupkg.sha512"
     },
+=======
+>>>>>>> c99d6f9a3aeee759b4a50408b4b8adfc52f31bad
     "System.Diagnostics.Debug/4.3.0": {
       "type": "package",
       "serviceable": true,
@@ -1143,6 +1167,7 @@
       "path": "system.linq.expressions/4.1.0",
       "hashPath": "system.linq.expressions.4.1.0.nupkg.sha512"
     },
+<<<<<<< HEAD
     "System.Linq.Queryable/4.0.1": {
       "type": "package",
       "serviceable": true,
@@ -1150,6 +1175,8 @@
       "path": "system.linq.queryable/4.0.1",
       "hashPath": "system.linq.queryable.4.0.1.nupkg.sha512"
     },
+=======
+>>>>>>> c99d6f9a3aeee759b4a50408b4b8adfc52f31bad
     "System.Net.NameResolution/4.3.0": {
       "type": "package",
       "serviceable": true,

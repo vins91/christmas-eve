@@ -7,7 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "christmas-eve", "christmas-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "christmas-eve.Tests", "christmas-eve.Tests\christmas-eve.Tests.csproj", "{C8F8F54A-84F5-49B5-82DC-5F46351F9D4D}"
 EndProject
+<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "christmas-eve.Classes", "christmas-eve.Classes\christmas-eve.Classes.csproj", "{3022605A-6039-4307-A844-F3A6B35226D3}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "christmas-eve.Classes", "christmas-eve.Classes\christmas-eve.Classes.csproj", "{3022605A-6039-4307-A844-F3A6B35226D3}"
+>>>>>>> c99d6f9a3aeee759b4a50408b4b8adfc52f31bad
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

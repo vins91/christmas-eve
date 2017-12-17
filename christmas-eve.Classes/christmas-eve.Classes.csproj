@@ -7,8 +7,11 @@
   <ItemGroup>
     <PackageReference Include="MongoDB.Driver" Version="2.5.0" />
     <PackageReference Include="MongoDB.Driver.Core" Version="2.5.0" />
+<<<<<<< HEAD
     <PackageReference Include="System.Configuration.Abstractions" Version="2.0.2.26" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.4.1" />
+=======
+>>>>>>> c99d6f9a3aeee759b4a50408b4b8adfc52f31bad
   </ItemGroup>
 
 </Project>
